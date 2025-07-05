@@ -1,0 +1,69 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+web_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Coverage and test output
+coverage/
+*.lcov
+.nyc_output/
+
+# Build output
+build/
+dist/
+.out/
+.next/
+.nuxt/
+.svelte-kit/
+.vuepress/dist/
+.vitepress/dist/
+
+# Caches
+.cache/
+.parcel-cache/
+.vitepress/cache/
+.stylelintcache
+.eslintcache
+.tsbuildinfo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Optional npm/yarn files
+.yarn-integrity
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# REPL history
+.node_repl_history
